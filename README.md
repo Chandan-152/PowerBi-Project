@@ -1,6 +1,7 @@
 📸 Dashboard Screenshots
 🏠 Home Page
-![Home](Supply Chain Dashboard/Images/Home.png)
+<img src="Images/Home.png" width="800">
+
 📊 Overview Page
 ![Overview](images/overview.png)
 

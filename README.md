@@ -3,13 +3,13 @@
 ![Home](Supply%20Chain%20Dashboard/Images/Home.png)
 
 📊 Overview Page
-![Overview](images/overview.png)
+![Overview](Supply%20Chain%20Dashboard/Images/Overview.png)
 
 🚢 Supplier Analysis
-![Supplier](images/supplier.png)
+![Supplier](Supply%20Chain%20Dashboard/Images/Supplier.png)
 
 🏗 Data Model (Star Schema)
-![Data Model](images/data_modeling.png)
+![Data Model](Supply%20Chain%20Dashboard/Images/Data_modeling.png)
 
 📌 Key Insights
 📊 Financial Performance

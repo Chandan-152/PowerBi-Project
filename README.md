@@ -1,76 +1,80 @@
 📸 Dashboard Screenshots
 🏠 Home Page
-![Home](Supply%20Chain%20Dashboard/Images/Home.png)
-
-📊 Overview Page
-![Overview](Supply%20Chain%20Dashboard/Images/Overview.png)
-
+<p align="center"> <img src="Supply%20Chain%20Dashboard/Images/Home.png" width="900"> </p>
+📊 Overview Dashboard
+<p align="center"> <img src="Supply%20Chain%20Dashboard/Images/Overview.png" width="900"> </p>
 🚢 Supplier Analysis
-![Supplier](Supply%20Chain%20Dashboard/Images/Supplier.png)
+<p align="center"> <img src="Supply%20Chain%20Dashboard/Images/Supplier.png" width="900"> </p>
+🏗 Data Model – Star Schema Architecture
+<p align="center"> <img src="Supply%20Chain%20Dashboard/Images/Data_modeling.png" width="900"> </p>
+📌 Key Business Insights
+💰 Financial Performance
 
-🏗 Data Model (Star Schema)
-![Data Model](Supply%20Chain%20Dashboard/Images/Data_modeling.png)
+Generated 186.86M Gross Revenue
 
-📌 Key Insights
-📊 Financial Performance
+Achieved 27.44% Profit Margin
 
-Generated 186.86M Gross Revenue with 27.44% Profit Margin
+Strong revenue contribution across multiple sales platforms
 
-Strong revenue contribution from major sales platforms
+Profitability supported by optimized cost structure
 
-Profitability driven by optimized cost structure
+🚚 Shipment & Logistics Analysis
 
-🚚 Shipment & Logistics
+Identified carriers contributing to shipment delays
 
-Identified top carriers contributing to shipment delays
+Achieved 75.29% Perfect Order Rate
 
-75.29% Perfect Order Rate indicates operational efficiency
+Analyzed shipment quantity trends to monitor logistics efficiency
 
-Shipment quantity analysis highlights logistics performance trends
-
-🏭 Supplier Performance
+🏭 Supplier Performance Evaluation
 
 Compared suppliers based on Average Lead Time
 
 Evaluated supplier quality scores
 
-Identified cost-heavy countries affecting procurement expenses
+Identified high procurement cost regions
 
 📦 Inventory Optimization
 
-Tracked stock levels across product categories
+Monitored stock levels across product categories
 
-Identified high-demand categories based on order quantity
+Identified high-demand products
 
-Helped detect potential overstock and understock risks
+Highlighted potential overstock and understock risks
 
-🌍 Geographic Analysis
+🌍 Geographic Insights
 
-Country-level unit cost breakdown
+Country-level unit cost comparison
 
-City-wise order distribution
+City-wise order distribution analysis
 
-Regional performance comparison for strategic planning
+Regional performance benchmarking
 
-🏁 Conclusion
+🏁 Project Conclusion
 
 This dashboard demonstrates how structured data modeling and optimized DAX calculations can transform raw operational data into actionable business insights.
 
-By implementing a Star Schema architecture, dedicated Measure Table, and clean KPI design, this project showcases:
+By implementing:
 
-End-to-end Supply Chain Analysis
+⭐ Star Schema Data Model
 
-Scalable Data Modeling
+🧠 Dedicated Measure Table for DAX
 
-Advanced DAX Calculations
+📊 Business-focused KPI Design
 
-Business-Oriented Storytelling
+🎨 Clean and Interactive Dashboard UI
 
-Dashboard UI/UX Design
+This project reflects practical, industry-level Business Intelligence development standards.
 
-The project reflects practical industry-level BI development standards and analytical thinking required for Data Analyst and Power BI Developer roles.
+It showcases skills required for:
 
-⚠ Important Note
+Data Analyst
 
-This project uses dummy / synthetic data for learning and demonstration purposes only.
+Power BI Developer
+
+Business Intelligence Analyst
+
+⚠ Disclaimer
+
+This project uses dummy / synthetic data for learning and portfolio demonstration purposes only.
 It does not represent real company data or actual business performance.
